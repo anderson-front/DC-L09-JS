@@ -1,0 +1,13 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.celula-ocupada {
+    text-align: center;       /* Centraliza o texto horizontalmente */
+    vertical-align: middle;   /* Centraliza o conteúdo verticalmente */
+    font-size: 10px;          /* Ajuste o tamanho da fonte conforme necessário */
+    padding: 10px;            /* Espaçamento interno para melhor legibilidade */
+    line-height: 1.4;         /* Espaçamento entre as linhas */
+}
