@@ -42,7 +42,9 @@
         ol {
             margin-left: 40px;
             margin-top: 10px;
-            list-style: none;
+        }
+        ul.ingredientes {
+            list-style-type: none;
         }
 
         li {
